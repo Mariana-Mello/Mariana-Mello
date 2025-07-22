@@ -38,6 +38,14 @@
 
 ###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+###
+
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif](https://64.media.tumblr.com/b3426b755d9ce47a6edec261a7ee0251/913dd2f4f38dcdbc-a1/s640x960/689f753873489e9c23ac1c585a6389a5a8e84c15.gifv"  />
 </div>
