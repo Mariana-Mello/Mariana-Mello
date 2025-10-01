@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023.<br>📚 Eu atualmente estou me especializando em Java.<br>🎯 Atuando como Analista de Sistemas.</p>
+<p align="left">✨ Criando bugs desde 2023.<br>📚 Eu atualmente estou me especializando em JavaScript e Node.Js.<br>🎯 Atuando como Analista de Sistemas.</p>
 
 ###
 
